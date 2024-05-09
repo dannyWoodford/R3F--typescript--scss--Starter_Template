@@ -1,0 +1,13 @@
+@import '1-settings/breakpoints';
+@import '1-settings/colors';
+@import '1-settings/fonts';
+@import '2-tools/breakpoint-sass';
+@import '2-tools/variables';
+@import '3-base/misc';
+
+.stats {
+	left: auto !important;
+	right: 0 !important;
+	top: auto !important;
+	bottom: 0 !important;
+}
